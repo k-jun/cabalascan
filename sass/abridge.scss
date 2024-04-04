@@ -74,30 +74,30 @@
   /// The colors below can be overrided individually as needed.
 
   /// Dark Colors
-  //$f1d: #ccc,// Font Color Primary
-  //$f2d: #ddd,// Font Color Headers
-  //$c1d: #111,// Background Color Primary
-  //$c2d: #222,// Background Color Secondary
-  //$c3d: #333,// Table Rows, Block quote edge, Borders
-  //$c4d: #777,// Disabled Buttons, Borders, mark background
-  //$a1d: #f90,// link color
-  //$a2d: #fb0,// link hover/focus color
-  //$a3d: #f90,// link h1-h2 hover/focus color
-  //$a4d: #f90,// link visited color
+  $f1d: #868F80, // Font Color Primary
+  $f2d: #E9E6DB, // Font Color Headers
+  // $c1d: #111,// Background Color Primary
+  // $c2d: #222,// Background Color Secondary
+  // $c3d: #333,// Table Rows, Block quote edge, Borders
+  // $c4d: #777,// Disabled Buttons, Borders, mark background
+  $a1d: #E9E6DB, // link color
+  $a2d: #FCFFFC, // link hover/focus color
+  $a3d: #FCFFFC, // link h1-h2 hover/focus color
+  $a4d: #FCFFFC, // link visited color
   //$cgd: #593,// ins green, success
   //$crd: #e33,// del red, errors
 
   /// Light Colors
-  //$f1: #333,// Font Color Primary
-  //$f2: #222,// Font Color Headers
-  //$c1: #fff,// Background Color Primary
-  //$c2: #eee,// Background Color Secondary
+  $f1: #222,// Font Color Primary
+  $f2: #2F402D,// Font Color Headers
+  $c1: #E9E6DB,// Background Color Primary
+  $c2: #FCFFFC,// Background Color Secondary
   //$c3: #ddd,// Table Rows, Block quote edge, Borders
   //$c4: #555,// Disabled Buttons, Borders, mark background
-  //$a1: #c40,// link color
-  //$a2: #e60,// link hover/focus color
-  //$a3: #f90,// link h1-h2 hover/focus color
-  //$a4: #c40,// link visited color
+  $a1: #2F402D, // link color
+  $a2: #697C63, // link hover/focus color
+  $a3: #697C63, // link h1-h2 hover/focus color
+  $a4: #697C63, // link visited color
   //$cg: #373,// ins green, success
   //$cr: #d33,// del red, errors
 
