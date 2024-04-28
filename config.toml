@@ -55,7 +55,7 @@ menu = [
 ]
 menu_footer = [
     {url = "about", name = "About", slash = true, blank = false},
-    {url = "contact", name = "Contact", slash = true, blank = false},
+#    {url = "contact", name = "Contact", slash = true, blank = false},
     {url = "privacy", name = "Privacy", slash = true, blank = false},
     {url = "sitemap.xml", name = "Sitemap", slash = false, blank = true},
 ]
@@ -113,7 +113,7 @@ seo = true  # enable or disable seo-related meta tags: opengraph, facebook, twit
 ###############################################################################
 
 feed = false # this adds the RSS feed icon in the footer.
-mail = "keijun091221@gmail.com"
+# mail = ""
 # mastodon = "@your-user-name"
 # element = "matrix.example.com"
 # buymeacoffee = "your-user-name"
