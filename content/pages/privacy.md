@@ -8,8 +8,4 @@ draft = false
 
 ## Privacy
 
-- This site does not set or use cookies.
-- This site does not store data in the browser to be shared, sent, or sold to third-parties.
-- No personal information is shared, sent, or sold to third-parties.
-
-**Effective Date:** _1st Jan 2022_
+このサイトは データを Cookie へ保存、Cookie から取得していません。また、このサイトはいかなる個人情報も取り扱いません。
