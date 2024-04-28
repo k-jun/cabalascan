@@ -1,0 +1,7 @@
+# cabalascan
+
+## setup
+
+```
+$ zola serve
+```
