@@ -25,3 +25,6 @@ draft = false
     <button type="submit" id="sendMessageButton">Send</button>
   </p>
 </form>
+
+<!-- <script src="https://smtpjs.com/v3/smtp.js">
+</script> -->
