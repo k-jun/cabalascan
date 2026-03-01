@@ -222,10 +222,10 @@ pwa_BASE_CACHE_FILES = "'/js/theme.min.js','/js/theme_light.min.js','/abridge.cs
 ### Favicons, comment out a line to disable loading some or all of these if needed.
 ###############################################################################
 
-favicon_theme_color = "#868F80"
-favicon_ms_color = "#868F80"
+favicon_theme_color = "#333333"
+favicon_ms_color = "#333333"
 favicon_mask = "lily6.svg" # safari-pinned-tab.svg
-favicon_mask_color = "#868F80"
+favicon_mask_color = "#ff9900"
 favicon_svg = "lily6.svg" # favicon.svg
 favicon180 = "lily6.svg" # apple-touch-icon.png
 favicon32 = "lily6.svg" # favicon-32x32.png
